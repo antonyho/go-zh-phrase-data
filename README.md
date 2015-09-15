@@ -7,6 +7,6 @@ This is the data source repository for project (https://github.com/antonyho/go-z
 Data source: (http://resources.publicense.moe.edu.tw/dict_reviseddict_download.html)
 
 
-這是為(https://github.com/antonyho/go-zh-phrase)而設的資料源庫。原材料由中華民國教育部以![CC BY-ND 3.0 TW](http://resources.publicense.moe.edu.tw/by-nd2.png "姓名標示─禁止改作 3.0 台灣")授權釋出。資料經過處理由XLS檔轉換為CSV檔。經轉換後的檔案以GPLv2授權釋出。
+這是為(https://github.com/antonyho/go-zh-phrase)而設的資料源庫。原材料由中華民國教育部以 ![CC BY-ND 3.0 TW](http://resources.publicense.moe.edu.tw/by-nd2.png "姓名標示─禁止改作 3.0 台灣")授權釋出。資料經過處理由XLS檔轉換為CSV檔。經轉換後的檔案以GPLv2授權釋出。
 
 資料來源：(http://resources.publicense.moe.edu.tw/dict_reviseddict_download.html)
